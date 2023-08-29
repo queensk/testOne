@@ -11,7 +11,6 @@ namespace tests
     {
         public static void performanceTest()
         {
-            
             Console.Title = "Email address validation performance testing";
             var summary = BenchmarkRunner.Run<EmailValidatorBenchmark>();
             Console.ReadLine();
