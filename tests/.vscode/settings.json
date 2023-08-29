@@ -1,0 +1,4 @@
+{
+  "dotnet-test-explorer.testProjectPath": "**/*.sln",
+  "dotnet.defaultSolution": "tests.sln"
+}
